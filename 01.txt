@@ -1,8 +1,0 @@
-
-abc
-abc v1
-asdfg v2
-asddsweqw v3
-在暂存区修改了 v4
-再改一次,我要最新的数据
-
